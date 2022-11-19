@@ -13,4 +13,10 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/davidcoats/D8S.E0003.git</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="R5T.F0028" Version="1.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Code\_Types\Classes\" />
+  </ItemGroup>
 </Project>
